@@ -1,9 +1,9 @@
 ---
-title: Schema to Standard Schema
-description: Generate Standard Schema V1.
-sidebar:
-  label: Standard Schema
-  order: 14
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/schema/standard-schema.mdx
+title: "Schema to Standard Schema"
+description: "Generate Standard Schema V1."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

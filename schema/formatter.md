@@ -1,9 +1,9 @@
 ---
-title: Schema to Formatter
-description: Generate formatted string representations of values based on schemas.
-sidebar:
-  label: Formatter
-  order: 18
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/schema/formatter.mdx
+title: "Schema to Formatter"
+description: "Generate formatted string representations of values based on schemas."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 `Schema.toFormatter` derives a human-readable formatter for values of a schema's `Type`. It recursively formats structs, arrays, unions, and declarations; it does not validate the value.

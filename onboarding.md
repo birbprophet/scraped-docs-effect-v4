@@ -1,9 +1,9 @@
 ---
-title: Welcome to Effect
-description: Effect is a TypeScript library for building production-grade software — typed error handling, structured concurrency, resource safety, and observability from one composable core.
-sidebar:
-  label: Welcome
-  order: 0
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/onboarding.mdx
+title: "Welcome to Effect"
+description: "Effect is a TypeScript library for building production-grade software — typed error handling, structured concurrency, resource safety, and observability from one composable core."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 Effect is a TypeScript library for building production-grade software: typed

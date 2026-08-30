@@ -1,8 +1,9 @@
 ---
-title: Getting Started
-description: A guide to the Effect documentation and where to start.
-sidebar:
-  order: 0
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/getting-started.mdx
+title: "Getting Started"
+description: "A guide to the Effect documentation and where to start."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 Welcome to the Effect guides. If you are new to Effect, start with the

@@ -1,8 +1,9 @@
 ---
-title: Logging
-description: Discover Effect's logging utilities for dynamic log levels, custom outputs, and fine-grained control over logs.
-sidebar:
-  order: 0
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/observability/logging.mdx
+title: "Logging"
+description: "Discover Effect's logging utilities for dynamic log levels, custom outputs, and fine-grained control over logs."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

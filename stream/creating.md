@@ -1,8 +1,9 @@
 ---
-title: Creating Streams
-description: Learn various methods for creating Effect streams, from basic constructors to handling asynchronous data sources, pagination, and schedules.
-sidebar:
-  order: 1
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/stream/creating.mdx
+title: "Creating Streams"
+description: "Learn various methods for creating Effect streams, from basic constructors to handling asynchronous data sources, pagination, and schedules."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 In this section, we'll explore various methods for creating Effect `Stream`s. These methods will help you generate streams tailored to your needs.

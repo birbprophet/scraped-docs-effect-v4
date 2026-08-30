@@ -1,9 +1,9 @@
 ---
-title: Simplifying Excessive Nesting
-description: Simplify nested code with Do simulation and generators.
-sidebar:
-  label: Excessive Nesting
-  order: 5
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/code-style/do.mdx
+title: "Simplifying Excessive Nesting"
+description: "Simplify nested code with Do simulation and generators."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Steps } from "@astrojs/starlight/components"

@@ -1,9 +1,9 @@
 ---
-title: Schema Transformations
-description: Transform and manipulate data with schema-based transformations, including type conversions, validations, and custom processing.
-sidebar:
-  label: Transformations
-  order: 7
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/schema/transformations.mdx
+title: "Schema Transformations"
+description: "Transform and manipulate data with schema-based transformations, including type conversions, validations, and custom processing."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

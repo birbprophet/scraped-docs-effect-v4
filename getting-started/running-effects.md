@@ -1,8 +1,9 @@
 ---
-title: Running Effects
-description: Learn how to execute effects in Effect with various functions for synchronous and asynchronous execution, including handling results and managing error outcomes.
-sidebar:
-  order: 8
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/getting-started/running-effects.mdx
+title: "Running Effects"
+description: "Learn how to execute effects in Effect with various functions for synchronous and asynchronous execution, including handling results and managing error outcomes."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

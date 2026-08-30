@@ -1,8 +1,9 @@
 ---
-title: Matching
-description: Handle success and failure outcomes with pure or effectful handlers.
-sidebar:
-  order: 4
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/error-management/matching.mdx
+title: "Matching"
+description: "Handle success and failure outcomes with pure or effectful handlers."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 Matching consumes both channels of an Effect and produces one result. Use the ordinary variants for typed failures and the `Cause` variants when defects and interruptions must also be considered.

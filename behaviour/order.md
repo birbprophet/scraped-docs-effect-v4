@@ -1,8 +1,9 @@
 ---
-title: Order
-description: Compare, sort, and manage value ordering with customizable tools for TypeScript.
-sidebar:
-  order: 2
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/behaviour/order.mdx
+title: "Order"
+description: "Compare, sort, and manage value ordering with customizable tools for TypeScript."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 The Order module provides a way to compare values and determine their order.

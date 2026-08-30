@@ -1,9 +1,9 @@
 ---
-title: Tracing in Effect
-description: Explore tracing in distributed systems to track request lifecycles across services using spans and traces for debugging and performance optimization.
-sidebar:
-  label: Tracing
-  order: 2
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/observability/tracing.mdx
+title: "Tracing in Effect"
+description: "Explore tracing in distributed systems to track request lifecycles across services using spans and traces for debugging and performance optimization."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Tabs, TabItem, Steps, Aside } from "@astrojs/starlight/components"

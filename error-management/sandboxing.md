@@ -1,8 +1,9 @@
 ---
-title: Sandboxing
-description: Expose an Effect's complete Cause in its typed error channel.
-sidebar:
-  order: 7
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/error-management/sandboxing.mdx
+title: "Sandboxing"
+description: "Expose an Effect's complete Cause in its typed error channel."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 `Effect.sandbox` exposes the complete failure `Cause` in the typed error channel:

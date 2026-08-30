@@ -1,8 +1,9 @@
 ---
-title: The Effect Type
-description: Understand the Effect type in the Effect ecosystem, which models immutable, lazy workflows with type-safe success, error, and requirement handling for effectful computations.
-sidebar:
-  order: 6
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/getting-started/the-effect-type.mdx
+title: "The Effect Type"
+description: "Understand the Effect type in the Effect ecosystem, which models immutable, lazy workflows with type-safe success, error, and requirement handling for effectful computations."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

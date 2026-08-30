@@ -1,8 +1,9 @@
 ---
-title: HashSet
-description: Learn about HashSet data structures - both immutable and mutable variants.
-sidebar:
-  order: 9
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/data-types/hash-set.mdx
+title: "HashSet"
+description: "Learn about HashSet data structures - both immutable and mutable variants."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

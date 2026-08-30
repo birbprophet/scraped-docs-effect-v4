@@ -1,8 +1,9 @@
 ---
-title: Option
-description: Represent optional values with Option, supporting presence (Some) or absence (None) and seamless operations like mapping, combining, and pattern matching.
-sidebar:
-  order: 10
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/data-types/option.mdx
+title: "Option"
+description: "Represent optional values with Option, supporting presence (Some) or absence (None) and seamless operations like mapping, combining, and pattern matching."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

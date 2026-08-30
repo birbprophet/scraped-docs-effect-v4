@@ -1,8 +1,9 @@
 ---
-title: Batching
-description: Optimize performance by batching requests and reducing redundant API calls, enhancing efficiency in data fetching and processing.
-sidebar:
-  order: 9
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/batching.mdx
+title: "Batching"
+description: "Optimize performance by batching requests and reducing redundant API calls, enhancing efficiency in data fetching and processing."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

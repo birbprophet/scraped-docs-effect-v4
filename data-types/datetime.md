@@ -1,8 +1,9 @@
 ---
-title: DateTime
-description: Work with precise points in time using Effect's DateTime, supporting creation, comparison, and arithmetic operations for efficient time handling.
-sidebar:
-  order: 5
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/data-types/datetime.mdx
+title: "DateTime"
+description: "Work with precise points in time using Effect's DateTime, supporting creation, comparison, and arithmetic operations for efficient time handling."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

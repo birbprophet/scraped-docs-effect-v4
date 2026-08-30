@@ -1,8 +1,9 @@
 ---
-title: Error Accumulation
-description: Accumulate every typed error or preserve both failures and successes.
-sidebar:
-  order: 8
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/error-management/error-accumulation.mdx
+title: "Error Accumulation"
+description: "Accumulate every typed error or preserve both failures and successes."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 Combinators such as `Effect.all` and `Effect.forEach` fail fast by default. Validation often needs different behavior: evaluate every input and report all problems together.

@@ -1,8 +1,9 @@
 ---
-title: Using Generators
-description: Learn how to use generators in Effect for writing effectful code, enhancing control flow, handling errors, and simplifying asynchronous operations with a syntax similar to async/await.
-sidebar:
-  order: 9
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/getting-started/using-generators.mdx
+title: "Using Generators"
+description: "Learn how to use generators in Effect for writing effectful code, enhancing control flow, handling errors, and simplifying asynchronous operations with a syntax similar to async/await."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside, Tabs, TabItem, Badge } from "@astrojs/starlight/components"

@@ -1,8 +1,9 @@
 ---
-title: Equivalence
-description: Define and customize equivalence relations for TypeScript values.
-sidebar:
-  order: 0
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/behaviour/equivalence.mdx
+title: "Equivalence"
+description: "Define and customize equivalence relations for TypeScript values."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 The Equivalence module provides a way to define equivalence relations between values in TypeScript. An equivalence relation is a binary relation that is reflexive, symmetric, and transitive, establishing a formal notion of when two values should be considered equivalent.

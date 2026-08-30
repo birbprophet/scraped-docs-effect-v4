@@ -1,8 +1,9 @@
 ---
-title: PlatformLogger
-description: Log messages to a file using the FileSystem APIs.
-sidebar:
-  order: 6
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/platform/platformlogger.mdx
+title: "PlatformLogger"
+description: "Log messages to a file using the FileSystem APIs."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 Effect's logging system generally writes messages to the console by default. However, you might prefer to store logs in a file for easier debugging or archiving. The `Logger.toFile` function creates a logger that sends log messages to a file on disk.

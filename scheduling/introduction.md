@@ -1,8 +1,9 @@
 ---
-title: Introduction
-description: Learn the fundamentals of scheduling in Effect, including composable recurrence patterns and handling retries and repetitions.
-sidebar:
-  order: 0
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/scheduling/introduction.mdx
+title: "Introduction"
+description: "Learn the fundamentals of scheduling in Effect, including composable recurrence patterns and handling retries and repetitions."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 # Scheduling

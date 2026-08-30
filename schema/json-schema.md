@@ -1,9 +1,9 @@
 ---
-title: Schema to JSON Schema
-description: Export a schema's canonical JSON representation as JSON Schema Draft 2020-12.
-sidebar:
-  label: JSON Schema
-  order: 16
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/schema/json-schema.mdx
+title: "Schema to JSON Schema"
+description: "Export a schema's canonical JSON representation as JSON Schema Draft 2020-12."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 `Schema.toJsonSchemaDocument` generates a JSON Schema Draft 2020-12 document for a schema's canonical JSON representation.

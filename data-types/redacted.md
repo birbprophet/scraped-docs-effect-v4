@@ -1,8 +1,9 @@
 ---
-title: Redacted
-description: Securely handle sensitive data with the Redacted module, preventing accidental exposure in logs while supporting safe value access and comparison.
-sidebar:
-  order: 11
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/data-types/redacted.mdx
+title: "Redacted"
+description: "Securely handle sensitive data with the Redacted module, preventing accidental exposure in logs while supporting safe value access and comparison."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 The Redacted module provides functionality for handling sensitive information securely within your application.

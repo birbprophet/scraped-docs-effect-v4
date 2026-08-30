@@ -1,8 +1,9 @@
 ---
-title: Basic Usage
-description: Learn to define and work with basic schemas, including primitives, literals, unions, and structs, for effective data validation and transformation.
-sidebar:
-  order: 3
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/schema/basic-usage.mdx
+title: "Basic Usage"
+description: "Learn to define and work with basic schemas, including primitives, literals, unions, and structs, for effective data validation and transformation."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

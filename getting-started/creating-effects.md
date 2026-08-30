@@ -1,8 +1,9 @@
 ---
-title: Creating Effects
-description: Learn to create and manage effects for structured handling of success, failure, and side effects in synchronous and asynchronous workflows.
-sidebar:
-  order: 7
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/getting-started/creating-effects.mdx
+title: "Creating Effects"
+description: "Learn to create and manage effects for structured handling of success, failure, and side effects in synchronous and asynchronous workflows."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

@@ -1,8 +1,9 @@
 ---
-title: Two Types of Errors
-description: Understand the distinction between expected errors and unexpected defects in Effect.
-sidebar:
-  order: 0
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/error-management/two-error-types.mdx
+title: "Two Types of Errors"
+description: "Understand the distinction between expected errors and unexpected defects in Effect."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 Effect distinguishes between errors that are part of a program's domain and unexpected problems that indicate a bug or broken invariant.

@@ -1,9 +1,9 @@
 ---
-title: Schema Annotations
-description: Learn how to enhance schemas with annotations for better customization, error handling, documentation, and concurrency control in your Effect-based applications.
-sidebar:
-  label: Annotations
-  order: 8
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/schema/annotations.mdx
+title: "Schema Annotations"
+description: "Learn how to enhance schemas with annotations for better customization, error handling, documentation, and concurrency control in your Effect-based applications."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 Schema AST nodes can carry optional metadata called annotations. Use the `.annotate(...)` method or `Schema.annotate(...)` for the decoded side, `Schema.annotateEncoded(...)` for the encoded side, and `Schema.annotateKey(...)` for a struct field or tuple element.

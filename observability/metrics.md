@@ -1,9 +1,9 @@
 ---
-title: Metrics in Effect
-description: Effect Metrics provides powerful monitoring tools, including counters, gauges, histograms, summaries, and frequencies, to track your application's performance and behavior.
-sidebar:
-  label: Metrics
-  order: 1
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/observability/metrics.mdx
+title: "Metrics in Effect"
+description: "Effect Metrics provides powerful monitoring tools, including counters, gauges, histograms, summaries, and frequencies, to track your application's performance and behavior."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

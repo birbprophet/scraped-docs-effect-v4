@@ -1,9 +1,9 @@
 ---
-title: Introduction to Effect Platform
-description: Build cross-platform applications with unified abstractions for Node.js, Deno, Bun, and browsers using the platform modules built into Effect.
-sidebar:
-  label: Introduction
-  order: 0
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/platform/introduction.mdx
+title: "Introduction to Effect Platform"
+description: "Build cross-platform applications with unified abstractions for Node.js, Deno, Bun, and browsers using the platform modules built into Effect."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside, Tabs, TabItem, Badge } from "@astrojs/starlight/components"

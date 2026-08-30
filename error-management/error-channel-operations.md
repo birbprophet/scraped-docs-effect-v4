@@ -1,8 +1,9 @@
 ---
-title: Error Channel Operations
-description: Transform, filter, inspect, expose, and flip Effect error channels.
-sidebar:
-  order: 9
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/error-management/error-channel-operations.mdx
+title: "Error Channel Operations"
+description: "Transform, filter, inspect, expose, and flip Effect error channels."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 Error-channel operators change or observe an Effect's failure behavior without requiring an immediate recovery.

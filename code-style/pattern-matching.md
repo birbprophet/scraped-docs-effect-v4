@@ -1,8 +1,9 @@
 ---
-title: Pattern Matching
-description: Simplify complex branching with pattern matching using the Match module.
-sidebar:
-  order: 4
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/code-style/pattern-matching.mdx
+title: "Pattern Matching"
+description: "Simplify complex branching with pattern matching using the Match module."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

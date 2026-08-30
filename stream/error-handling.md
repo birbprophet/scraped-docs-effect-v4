@@ -1,9 +1,9 @@
 ---
-title: Error Handling in Streams
-description: Learn how to handle errors in streams, ensuring robust recovery, retries, and graceful error management for reliable stream processing.
-sidebar:
-  label: Error Handling
-  order: 3
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/stream/error-handling.mdx
+title: "Error Handling in Streams"
+description: "Learn how to handle errors in streams, ensuring robust recovery, retries, and graceful error management for reliable stream processing."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 ## Recovering from Failure

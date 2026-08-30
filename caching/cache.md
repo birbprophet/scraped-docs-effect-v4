@@ -1,8 +1,9 @@
 ---
-title: Cache
-description: Optimize performance with cache for concurrent, compositional, and efficient value retrieval.
-sidebar:
-  order: 1
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/caching/cache.mdx
+title: "Cache"
+description: "Optimize performance with cache for concurrent, compositional, and efficient value retrieval."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 In many applications, handling overlapping work is common. For example, in services that process incoming requests, it's important to avoid redundant work like handling the same request multiple times. The Cache module helps improve performance by preventing duplicate work.

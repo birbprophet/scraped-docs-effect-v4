@@ -1,8 +1,9 @@
 ---
-title: Error Formatters
-description: Format schema issues as readable strings or Standard Schema V1 issue arrays.
-sidebar:
-  order: 10
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/schema/error-formatters.mdx
+title: "Error Formatters"
+description: "Format schema issues as readable strings or Standard Schema V1 issue arrays."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 The `SchemaIssue` module provides two built-in formatters: a human-readable string formatter and a structured Standard Schema V1 formatter.

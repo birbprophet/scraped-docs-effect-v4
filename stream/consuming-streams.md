@@ -1,8 +1,9 @@
 ---
-title: Consuming Streams
-description: Learn techniques for consuming streams, including collecting elements, processing with callbacks, and using folds and sinks.
-sidebar:
-  order: 2
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/stream/consuming-streams.mdx
+title: "Consuming Streams"
+description: "Learn techniques for consuming streams, including collecting elements, processing with callbacks, and using folds and sinks."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 When working with streams, it's essential to understand how to consume the data they produce.

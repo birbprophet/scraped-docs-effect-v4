@@ -1,8 +1,9 @@
 ---
-title: Error Messages
-description: Customize and enhance error messages for schema decoding with default, refined, and custom messages.
-sidebar:
-  order: 9
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/schema/error-messages.mdx
+title: "Error Messages"
+description: "Customize and enhance error messages for schema decoding with default, refined, and custom messages."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 ## Default Error Messages

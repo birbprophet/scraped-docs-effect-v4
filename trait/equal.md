@@ -1,8 +1,9 @@
 ---
-title: Equal
-description: Implement value-based equality checks for improved data integrity and predictable behavior in TypeScript.
-sidebar:
-  order: 0
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/trait/equal.mdx
+title: "Equal"
+description: "Implement value-based equality checks for improved data integrity and predictable behavior in TypeScript."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 The Equal module provides a simple and convenient way to define and check for equality between two values in TypeScript.

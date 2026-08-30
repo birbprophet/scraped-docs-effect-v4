@@ -1,8 +1,9 @@
 ---
-title: Unexpected Errors
-description: Create, inspect, report, and selectively recover from defects.
-sidebar:
-  order: 2
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/error-management/unexpected-errors.mdx
+title: "Unexpected Errors"
+description: "Create, inspect, report, and selectively recover from defects."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 Unexpected errors, or **defects**, indicate bugs, violated invariants, or failures outside the program's expected domain. They are retained in the runtime `Cause`, but do not appear in the typed error channel.

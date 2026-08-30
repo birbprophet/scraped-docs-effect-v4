@@ -1,8 +1,9 @@
 ---
-title: Deferred
-description: Master asynchronous coordination with Deferred, a one-time variable for managing effect synchronization and communication.
-sidebar:
-  order: 4
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/concurrency/deferred.mdx
+title: "Deferred"
+description: "Master asynchronous coordination with Deferred, a one-time variable for managing effect synchronization and communication."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 A `Deferred<Success, Error>` is a specialized subtype of `Effect` that acts like a one-time variable with some unique characteristics. It can only be completed once, making it a useful tool for managing asynchronous operations and synchronization between different parts of your program.

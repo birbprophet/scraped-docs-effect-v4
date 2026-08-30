@@ -1,8 +1,9 @@
 ---
-title: Basic Concurrency
-description: Manage and control effect execution with concurrency, interruptions, and racing.
-sidebar:
-  order: 0
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/concurrency/basic-concurrency.mdx
+title: "Basic Concurrency"
+description: "Manage and control effect execution with concurrency, interruptions, and racing."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

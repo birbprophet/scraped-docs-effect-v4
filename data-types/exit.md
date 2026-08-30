@@ -1,8 +1,9 @@
 ---
-title: Exit
-description: Represent the result of an Effect workflow with Exit, capturing success values or failure causes.
-sidebar:
-  order: 8
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/data-types/exit.mdx
+title: "Exit"
+description: "Represent the result of an Effect workflow with Exit, capturing success values or failure causes."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 An `Exit<A, E>` describes the result of running an `Effect` workflow.

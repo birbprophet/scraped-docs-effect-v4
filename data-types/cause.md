@@ -1,8 +1,9 @@
 ---
-title: Cause
-description: Comprehensive error analysis with Cause in Effect - track failures, defects, and interruptions with precise details.
-sidebar:
-  order: 2
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/data-types/cause.mdx
+title: "Cause"
+description: "Comprehensive error analysis with Cause in Effect - track failures, defects, and interruptions with precise details."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 The [`Effect<A, E, R>`](/docs/v4/getting-started/the-effect-type/) type is polymorphic in error type `E`, allowing flexibility in handling any desired error type. However, there is often additional information about failures that the error type `E` alone does not capture.

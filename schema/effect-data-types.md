@@ -1,8 +1,9 @@
 ---
-title: Effect Data Types
-description: Define schemas for Option, Result, Exit, Effect collections, Duration, Redacted values, and configuration.
-sidebar:
-  order: 13
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/schema/effect-data-types.mdx
+title: "Effect Data Types"
+description: "Define schemas for Option, Result, Exit, Effect collections, Duration, Redacted values, and configuration."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 Effect provides schemas for its runtime data types, including `Option`, `Result`, `Exit`, hash collections, `Duration`, and `Redacted`.

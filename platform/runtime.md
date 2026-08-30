@@ -1,8 +1,9 @@
 ---
-title: Runtime
-description: Run your program with built-in error handling and logging.
-sidebar:
-  order: 6
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/platform/runtime.mdx
+title: "Runtime"
+description: "Run your program with built-in error handling and logging."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 ## Running Your Main Program with runMain

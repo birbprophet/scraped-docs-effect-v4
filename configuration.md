@@ -1,8 +1,9 @@
 ---
-title: Configuration
-description: Describe, load, validate, and test application configuration with Config and ConfigProvider.
-sidebar:
-  order: 5
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/configuration.mdx
+title: "Configuration"
+description: "Describe, load, validate, and test application configuration with Config and ConfigProvider."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 Effect separates the **description** of a configuration from the source that supplies its values:

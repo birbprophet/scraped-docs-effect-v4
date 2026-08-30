@@ -1,8 +1,9 @@
 ---
-title: Yieldable Errors
-description: Define custom errors that can be yielded directly inside Effect.gen.
-sidebar:
-  order: 11
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/error-management/yieldable-errors.mdx
+title: "Yieldable Errors"
+description: "Define custom errors that can be yielded directly inside Effect.gen."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 Errors created with `Data.Error` and `Data.TaggedError` are yieldable. Inside [`Effect.gen`](/docs/v4/getting-started/using-generators/), yielding one is equivalent to passing it to [`Effect.fail`](/docs/v4/getting-started/creating-effects/#fail).

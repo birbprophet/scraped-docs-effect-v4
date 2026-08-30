@@ -1,8 +1,9 @@
 ---
-title: Semaphore
-description: Learn to use semaphores in Effect for precise control of concurrency, managing resource access, and coordinating asynchronous tasks effectively.
-sidebar:
-  order: 7
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/concurrency/semaphore.mdx
+title: "Semaphore"
+description: "Learn to use semaphores in Effect for precise control of concurrency, managing resource access, and coordinating asynchronous tasks effectively."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

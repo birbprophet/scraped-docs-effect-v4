@@ -1,8 +1,9 @@
 ---
-title: Filters
-description: Define custom validation logic with filters to enhance data validation beyond basic type checks.
-sidebar:
-  order: 4
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/schema/filters.mdx
+title: "Filters"
+description: "Define custom validation logic with filters to enhance data validation beyond basic type checks."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

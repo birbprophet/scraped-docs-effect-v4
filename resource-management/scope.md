@@ -1,8 +1,9 @@
 ---
-title: Scope
-description: Learn how Effect simplifies resource management with Scopes, ensuring efficient cleanup and safe resource handling in long-running applications.
-sidebar:
-  order: 1
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/resource-management/scope.mdx
+title: "Scope"
+description: "Learn how Effect simplifies resource management with Scopes, ensuring efficient cleanup and safe resource handling in long-running applications."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside, Tabs, TabItem } from "@astrojs/starlight/components"

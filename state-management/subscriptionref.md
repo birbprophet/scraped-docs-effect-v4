@@ -1,8 +1,9 @@
 ---
-title: SubscriptionRef
-description: Learn how to manage shared state with SubscriptionRef in Effect, enabling multiple observers to subscribe to and react to state changes efficiently in concurrent environments.
-sidebar:
-  order: 2
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/state-management/subscriptionref.mdx
+title: "SubscriptionRef"
+description: "Learn how to manage shared state with SubscriptionRef in Effect, enabling multiple observers to subscribe to and react to state changes efficiently in concurrent environments."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 A `SubscriptionRef<A>` is a specialized form of a [SynchronizedRef](/docs/v4/state-management/synchronizedref/). It allows us to subscribe and receive updates on the current value and any changes made to that value.

@@ -1,8 +1,9 @@
 ---
-title: Result
-description: Represent exclusive values as Success or Failure with the Result data type, enabling precise control flow in computations.
-sidebar:
-  order: 7
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/data-types/result.mdx
+title: "Result"
+description: "Represent exclusive values as Success or Failure with the Result data type, enabling precise control flow in computations."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

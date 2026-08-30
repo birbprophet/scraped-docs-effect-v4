@@ -1,8 +1,9 @@
 ---
-title: Devtools
-description: Enhance your Effect development experience with the Effect Language Service (@effect/tsgo) and official VS Code/Cursor extension for advanced diagnostics, refactors, and intelligent code completion.
-sidebar:
-  order: 3
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/getting-started/devtools.mdx
+title: "Devtools"
+description: "Enhance your Effect development experience with the Effect Language Service (@effect/tsgo) and official VS Code/Cursor extension for advanced diagnostics, refactors, and intelligent code completion."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside, Steps, Tabs, TabItem } from "@astrojs/starlight/components"

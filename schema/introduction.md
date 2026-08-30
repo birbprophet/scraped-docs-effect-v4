@@ -1,9 +1,9 @@
 ---
-title: Introduction to Effect Schema
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/schema/introduction.mdx
+title: "Introduction to Effect Schema"
 description: "Introduction to `effect/Schema`, a module for defining, validating, and transforming data schemas."
-sidebar:
-  label: Introduction
-  order: 0
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

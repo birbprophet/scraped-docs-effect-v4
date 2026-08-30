@@ -1,8 +1,9 @@
 ---
-title: Terminal
-description: Interact with standard input and output to read user input and display messages on the terminal.
-sidebar:
-  order: 7
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/platform/terminal.mdx
+title: "Terminal"
+description: "Interact with standard input and output to read user input and display messages on the terminal."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 The `effect/Terminal` module provides an abstraction for interacting with standard input and output, including reading user input and displaying messages on the terminal.

@@ -1,8 +1,9 @@
 ---
-title: Queue
-description: Learn how to use Effect's Queue for lightweight, type-safe, and asynchronous workflows with built-in back-pressure.
-sidebar:
-  order: 5
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/concurrency/queue.mdx
+title: "Queue"
+description: "Learn how to use Effect's Queue for lightweight, type-safe, and asynchronous workflows with built-in back-pressure."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 A `Queue` is a lightweight in-memory queue with built-in back-pressure, enabling asynchronous, purely-functional, and type-safe handling of data.

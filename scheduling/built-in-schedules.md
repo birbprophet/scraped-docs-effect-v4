@@ -1,8 +1,9 @@
 ---
-title: Built-In Schedules
-description: Explore built-in scheduling patterns in Effect for efficient timed repetitions and delays.
-sidebar:
-  order: 2
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/scheduling/built-in-schedules.mdx
+title: "Built-In Schedules"
+description: "Explore built-in scheduling patterns in Effect for efficient timed repetitions and delays."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

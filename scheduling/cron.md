@@ -1,8 +1,9 @@
 ---
-title: Cron
-description: Explore cron scheduling in Effect for executing actions at specific times and intervals.
-sidebar:
-  order: 4
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/scheduling/cron.mdx
+title: "Cron"
+description: "Explore cron scheduling in Effect for executing actions at specific times and intervals."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

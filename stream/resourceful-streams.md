@@ -1,8 +1,9 @@
 ---
-title: Resourceful Streams
-description: Learn how to manage resources in streams with safe acquisition and release, finalization for cleanup tasks, and ensuring post-finalization actions for robust resource handling in streaming applications.
-sidebar:
-  order: 5
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/stream/resourceful-streams.mdx
+title: "Resourceful Streams"
+description: "Learn how to manage resources in streams with safe acquisition and release, finalization for cleanup tasks, and ensuring post-finalization actions for robust resource handling in streaming applications."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 Resources acquired by a stream must remain open for the whole period in which the stream is consumed. Compose `Effect.acquireRelease`, `Stream.fromEffect`, and `Stream.scoped` to tie the resource lifetime to the stream. Use `Stream.ensuring` when a stream only needs a finalizer.

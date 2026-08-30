@@ -1,8 +1,9 @@
 ---
-title: Timing Out
-description: Limit how long an Effect may run and customize the timeout outcome.
-sidebar:
-  order: 6
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/error-management/timing-out.mdx
+title: "Timing Out"
+description: "Limit how long an Effect may run and customize the timeout outcome."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 Timeout operators race an Effect against a duration. If the timeout wins, the source Effect is interrupted before the timeout outcome is produced.

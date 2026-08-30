@@ -1,8 +1,9 @@
 ---
-title: SynchronizedRef
-description: Master concurrent state management with SynchronizedRef in Effect, a mutable reference that supports atomic, effectful updates to shared state in concurrent environments.
-sidebar:
-  order: 1
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/state-management/synchronizedref.mdx
+title: "SynchronizedRef"
+description: "Master concurrent state management with SynchronizedRef in Effect, a mutable reference that supports atomic, effectful updates to shared state in concurrent environments."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

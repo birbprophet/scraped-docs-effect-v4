@@ -1,8 +1,9 @@
 ---
-title: Installation
-description: Set up a new Effect project across different platforms like Node.js, Deno, Bun, and Vite + React with step-by-step installation guides.
-sidebar:
-  order: 2
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/getting-started/installation.mdx
+title: "Installation"
+description: "Set up a new Effect project across different platforms like Node.js, Deno, Bun, and Vite + React with step-by-step installation guides."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside, Steps, Tabs, TabItem } from "@astrojs/starlight/components"

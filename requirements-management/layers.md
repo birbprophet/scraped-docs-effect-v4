@@ -1,8 +1,9 @@
 ---
-title: Managing Layers
-description: Learn how to use layers in Effect to manage service dependencies and build efficient, clean dependency graphs for your applications.
-sidebar:
-  order: 2
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/requirements-management/layers.mdx
+title: "Managing Layers"
+description: "Learn how to use layers in Effect to manage service dependencies and build efficient, clean dependency graphs for your applications."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

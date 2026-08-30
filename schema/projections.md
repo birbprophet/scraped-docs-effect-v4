@@ -1,9 +1,9 @@
 ---
-title: Schema Projections
-description: Create new schemas by extracting and customizing the Type or Encoded components of existing schemas.
-sidebar:
-  label: Projections
-  order: 6
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/schema/projections.mdx
+title: "Schema Projections"
+description: "Create new schemas by extracting and customizing the Type or Encoded components of existing schemas."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 Sometimes, you may want to create a new schema based on an existing one, focusing specifically on either its `Type` or `Encoded` aspect. The Schema module provides several functions to make this possible.

@@ -1,8 +1,9 @@
 ---
-title: Retrying
-description: Retry transient typed failures with limits, conditions, schedules, and fallbacks.
-sidebar:
-  order: 5
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/error-management/retrying.mdx
+title: "Retrying"
+description: "Retry transient typed failures with limits, conditions, schedules, and fallbacks."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 Retrying is appropriate for transient failures such as temporary network or service unavailability. It is not a substitute for handling permanent errors, and defects or interruptions are never retried.

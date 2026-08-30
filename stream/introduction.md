@@ -1,9 +1,9 @@
 ---
-title: Introduction to Streams
-description: Learn the fundamentals of streams, a powerful tool for emitting multiple values, handling errors, and working with finite or infinite sequences in your applications.
-sidebar:
-  label: Introduction
-  order: 0
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/stream/introduction.mdx
+title: "Introduction to Streams"
+description: "Learn the fundamentals of streams, a powerful tool for emitting multiple values, handling errors, and working with finite or infinite sequences in your applications."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 In this guide, we'll explore the concept of a `Stream<A, E, R>`. A `Stream` is a program description that, when executed, can emit **zero or more values** of type `A`, handle errors of type `E`, and operates within a context of type `R`.

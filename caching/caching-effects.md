@@ -1,8 +1,9 @@
 ---
-title: Caching Effects
-description: Efficiently manage caching and memoization of effects with reusable tools.
-sidebar:
-  order: 0
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/caching/caching-effects.mdx
+title: "Caching Effects"
+description: "Efficiently manage caching and memoization of effects with reusable tools."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 This section covers several functions from the library that help manage caching and memoization in your application.

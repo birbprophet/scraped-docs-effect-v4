@@ -1,8 +1,9 @@
 ---
-title: Hash
-description: Optimize equality checks with efficient hashing for faster comparisons in collections like hash sets and maps.
-sidebar:
-  order: 1
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/trait/hash.mdx
+title: "Hash"
+description: "Optimize equality checks with efficient hashing for faster comparisons in collections like hash sets and maps."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 The `Hash` interface is closely tied to the [Equal](/docs/v4/trait/equal/) interface and serves a supportive role in optimizing equality checks by providing a mechanism for hashing. Hashing is an important step in the efficient determination of equality between two values, particularly when used with data structures like hash tables.

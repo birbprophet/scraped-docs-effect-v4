@@ -1,8 +1,9 @@
 ---
-title: Default Services
-description: Learn about the default services in Effect, including Clock, Console, Random, ConfigProvider, and Tracer, and how they are automatically provided for your programs.
-sidebar:
-  order: 1
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/requirements-management/default-services.mdx
+title: "Default Services"
+description: "Learn about the default services in Effect, including Clock, Console, Random, ConfigProvider, and Tracer, and how they are automatically provided for your programs."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 Effect comes equipped with live implementations of five services: `Clock`, `ConfigProvider`, `Console`, `Random`, and `Tracer`.

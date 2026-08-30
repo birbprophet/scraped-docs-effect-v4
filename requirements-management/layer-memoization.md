@@ -1,8 +1,9 @@
 ---
-title: Layer Memoization
-description: Learn how layer memoization optimizes performance in Effect by reusing layers and controlling their instantiation.
-sidebar:
-  order: 3
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/requirements-management/layer-memoization.mdx
+title: "Layer Memoization"
+description: "Learn how layer memoization optimizes performance in Effect by reusing layers and controlling their instantiation."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

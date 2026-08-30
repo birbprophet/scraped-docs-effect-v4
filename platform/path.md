@@ -1,8 +1,9 @@
 ---
-title: Path
-description: Perform file path operations such as joining, resolving, and normalizing across platforms.
-sidebar:
-  order: 4
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/platform/path.mdx
+title: "Path"
+description: "Perform file path operations such as joining, resolving, and normalizing across platforms."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 The `effect/Path` module provides a set of operations for working with file paths.

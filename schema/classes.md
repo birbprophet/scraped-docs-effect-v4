@@ -1,8 +1,9 @@
 ---
-title: Class APIs
-description: Define and extend schema-backed classes with validated constructors, methods, equality, and recursive fields.
-sidebar:
-  order: 11
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/schema/classes.mdx
+title: "Class APIs"
+description: "Define and extend schema-backed classes with validated constructors, methods, equality, and recursive fields."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

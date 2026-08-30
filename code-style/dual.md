@@ -1,8 +1,9 @@
 ---
-title: Dual APIs
-description: Explore data-first and data-last variants of dual APIs in the Effect ecosystem.
-sidebar:
-  order: 2
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/code-style/dual.mdx
+title: "Dual APIs"
+description: "Explore data-first and data-last variants of dual APIs in the Effect ecosystem."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

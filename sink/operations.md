@@ -1,9 +1,9 @@
 ---
-title: Sink Operations
-description: Explore operations to transform, filter, and adapt sinks, enabling custom input-output handling and element filtering in stream processing.
-sidebar:
-  label: Operations
-  order: 2
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/sink/operations.mdx
+title: "Sink Operations"
+description: "Explore operations to transform, filter, and adapt sinks, enabling custom input-output handling and element filtering in stream processing."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 In previous sections, we learned how to create and use sinks. Now, let's explore some operations that let you transform or filter sink behavior.

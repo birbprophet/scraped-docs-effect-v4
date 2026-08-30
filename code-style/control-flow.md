@@ -1,8 +1,9 @@
 ---
-title: Control Flow Operators
-description: Learn to control execution flow in Effect programs using advanced constructs for conditional branching, iteration, and combining effects seamlessly.
-sidebar:
-  order: 6
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/code-style/control-flow.mdx
+title: "Control Flow Operators"
+description: "Learn to control execution flow in Effect programs using advanced constructs for conditional branching, iteration, and combining effects seamlessly."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 Even though JavaScript provides built-in control flow structures, Effect offers additional control flow functions that are useful in Effect applications. In this section, we will introduce different ways to control the flow of execution.

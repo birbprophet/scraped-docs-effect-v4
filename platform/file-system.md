@@ -1,8 +1,9 @@
 ---
-title: FileSystem
-description: Explore file system operations for reading, writing, and managing files and directories in Effect.
-sidebar:
-  order: 2
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/platform/file-system.mdx
+title: "FileSystem"
+description: "Explore file system operations for reading, writing, and managing files and directories in Effect."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 The `effect/FileSystem` module provides a set of operations for reading and writing from/to the file system.

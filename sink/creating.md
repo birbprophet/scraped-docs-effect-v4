@@ -1,8 +1,9 @@
 ---
-title: Creating Sinks
-description: Discover how to create and use various sinks for processing streams, including counting, summing, collecting, folding, and handling success or failure.
-sidebar:
-  order: 1
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/sink/creating.mdx
+title: "Creating Sinks"
+description: "Discover how to create and use various sinks for processing streams, including counting, summing, collecting, folding, and handling success or failure."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 In stream processing, sinks are used to consume and handle elements from a stream. Here, we'll explore various sink constructors that allow you to create sinks for specific tasks.

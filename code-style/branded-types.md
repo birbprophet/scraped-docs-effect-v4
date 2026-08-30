@@ -1,8 +1,9 @@
 ---
-title: Branded Types
-description: Use branded types to enforce type safety and refine data in TypeScript.
-sidebar:
-  order: 3
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/code-style/branded-types.mdx
+title: "Branded Types"
+description: "Use branded types to enforce type safety and refine data in TypeScript."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 In this guide, we will explore the concept of **branded types** in TypeScript and learn how to create and work with them using the Brand module.

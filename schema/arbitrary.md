@@ -1,9 +1,9 @@
 ---
-title: Schema to Arbitrary
-description: Derive fast-check arbitraries from schemas and customize generation with filters, candidates, and annotations.
-sidebar:
-  label: Arbitrary
-  order: 15
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/schema/arbitrary.mdx
+title: "Schema to Arbitrary"
+description: "Derive fast-check arbitraries from schemas and customize generation with filters, candidates, and annotations."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

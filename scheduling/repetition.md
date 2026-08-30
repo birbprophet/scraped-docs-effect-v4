@@ -1,8 +1,9 @@
 ---
-title: Repetition
-description: Explore repetition in Effect for executing actions multiple times with control over retries, failures, and conditions.
-sidebar:
-  order: 1
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/scheduling/repetition.mdx
+title: "Repetition"
+description: "Explore repetition in Effect for executing actions multiple times with control over retries, failures, and conditions."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

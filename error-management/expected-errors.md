@@ -1,8 +1,9 @@
 ---
-title: Expected Errors
-description: Create, track, expose, and recover from typed errors.
-sidebar:
-  order: 1
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/error-management/expected-errors.mdx
+title: "Expected Errors"
+description: "Create, track, expose, and recover from typed errors."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 Expected errors are represented in the error channel of [`Effect`](/docs/v4/getting-started/the-effect-type/):

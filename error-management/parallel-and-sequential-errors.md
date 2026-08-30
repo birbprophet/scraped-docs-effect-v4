@@ -1,8 +1,9 @@
 ---
-title: Parallel and Sequential Errors
-description: Understand how Effect represents multiple failure reasons in Cause.
-sidebar:
-  order: 10
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/error-management/parallel-and-sequential-errors.mdx
+title: "Parallel and Sequential Errors"
+description: "Understand how Effect represents multiple failure reasons in Cause."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 Most Effect combinators fail fast: once an effect fails, later work is not started and concurrent work is interrupted. Some operations can nevertheless produce several failure reasons, for example when concurrent fibers fail together or when both an operation and its finalizer fail.

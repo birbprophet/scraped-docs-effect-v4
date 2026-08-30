@@ -1,8 +1,9 @@
 ---
-title: Fibers
-description: Understand fibers in Effect, lightweight virtual threads enabling powerful concurrency, structured lifecycles, and efficient resource management for responsive applications.
-sidebar:
-  order: 2
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/concurrency/fibers.mdx
+title: "Fibers"
+description: "Understand fibers in Effect, lightweight virtual threads enabling powerful concurrency, structured lifecycles, and efficient resource management for responsive applications."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

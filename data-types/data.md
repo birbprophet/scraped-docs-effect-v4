@@ -1,8 +1,9 @@
 ---
-title: Data
-description: Define immutable data structures, ensure equality, and manage errors seamlessly with Effect's Data module.
-sidebar:
-  order: 4
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/data-types/data.mdx
+title: "Data"
+description: "Define immutable data structures, ensure equality, and manage errors seamlessly with Effect's Data module."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

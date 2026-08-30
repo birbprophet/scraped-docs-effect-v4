@@ -1,8 +1,9 @@
 ---
-title: Latch
-description: A Latch synchronizes fibers by allowing them to wait until a specific event occurs, controlling access based on its open or closed state.
-sidebar:
-  order: 8
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/concurrency/latch.mdx
+title: "Latch"
+description: "A Latch synchronizes fibers by allowing them to wait until a specific event occurs, controlling access based on its open or closed state."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 A Latch is a synchronization tool that works like a gate, letting fibers wait until the latch is opened before they continue. The latch can be either open or closed:

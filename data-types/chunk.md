@@ -1,8 +1,9 @@
 ---
-title: Chunk
-description: Learn about Chunk, a high-performance immutable data structure in Effect, offering efficient operations like concatenation, slicing, and conversions.
-sidebar:
-  order: 3
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/data-types/chunk.mdx
+title: "Chunk"
+description: "Learn about Chunk, a high-performance immutable data structure in Effect, offering efficient operations like concatenation, slicing, and conversions."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

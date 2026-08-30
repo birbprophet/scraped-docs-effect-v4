@@ -1,8 +1,9 @@
 ---
-title: Duration
-description: Work with precise time spans using Effect's Duration, supporting creation, comparison, and arithmetic operations for efficient time handling.
-sidebar:
-  order: 6
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/data-types/duration.mdx
+title: "Duration"
+description: "Work with precise time spans using Effect's Duration, supporting creation, comparison, and arithmetic operations for efficient time handling."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 The `Duration` data type represents non-negative spans of time. It is commonly used for timeouts, delays, and scheduling, and provides operations for working with different time units.

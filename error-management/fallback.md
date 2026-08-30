@@ -1,8 +1,9 @@
 ---
-title: Fallback
-description: Recover from typed failures with fallback effects and values.
-sidebar:
-  order: 3
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/error-management/fallback.mdx
+title: "Fallback"
+description: "Recover from typed failures with fallback effects and values."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 Fallback operators recover from typed failures. Defects and interruptions remain unchanged.

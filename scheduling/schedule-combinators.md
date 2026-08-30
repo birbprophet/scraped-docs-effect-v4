@@ -1,8 +1,9 @@
 ---
-title: Schedule Combinators
-description: Learn how to combine and customize schedules in Effect to create complex recurrence patterns, including union, intersection, sequencing, and more.
-sidebar:
-  order: 3
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/scheduling/schedule-combinators.mdx
+title: "Schedule Combinators"
+description: "Learn how to combine and customize schedules in Effect to create complex recurrence patterns, including union, intersection, sequencing, and more."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 import { Aside } from "@astrojs/starlight/components"

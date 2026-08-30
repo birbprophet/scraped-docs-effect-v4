@@ -1,8 +1,9 @@
 ---
-title: Examples
-description: Explore practical examples for scheduling, retries, timeouts, and periodic task execution in Effect.
-sidebar:
-  order: 5
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/scheduling/examples.mdx
+title: "Examples"
+description: "Explore practical examples for scheduling, retries, timeouts, and periodic task execution in Effect."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 These examples demonstrate different approaches to handling timeouts, retries, and periodic execution using Effect. Each scenario ensures that the application remains responsive and resilient to failures while adapting dynamically to various conditions.

@@ -1,8 +1,9 @@
 ---
-title: Leftovers
-description: Learn how to handle unconsumed elements in streams, collecting or ignoring leftovers for efficient data processing.
-sidebar:
-  order: 4
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/sink/leftovers.mdx
+title: "Leftovers"
+description: "Learn how to handle unconsumed elements in streams, collecting or ignoring leftovers for efficient data processing."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 In this section, we'll look at handling elements left unconsumed by sinks. Sinks may process only a portion of the elements from an upstream source, leaving some elements as "leftovers." Here's how to collect or ignore these remaining elements.

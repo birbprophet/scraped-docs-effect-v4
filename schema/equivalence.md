@@ -1,9 +1,9 @@
 ---
-title: Schema to Equivalence
-description: Derive and customize equivalence checks from schema structure.
-sidebar:
-  label: Equivalence
-  order: 17
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/schema/equivalence.mdx
+title: "Schema to Equivalence"
+description: "Derive and customize equivalence checks from schema structure."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 `Schema.toEquivalence` derives an [Equivalence](/docs/v4/behaviour/equivalence/) for a schema's `Type`. Nested values are compared according to the corresponding nested schemas.

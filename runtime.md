@@ -1,9 +1,9 @@
 ---
-title: Introduction to Runtime
-description: Learn how Effect's runtime system executes concurrent programs, manages resources, and handles configuration with flexibility and efficiency.
-sidebar:
-  label: Runtime
-  order: 6
+url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/runtime.mdx
+title: "Introduction to Runtime"
+description: "Learn how Effect's runtime system executes concurrent programs, manages resources, and handles configuration with flexibility and efficiency."
+access_date: 2026-08-30T17:46:52.674Z
+current_date: 2026-08-30T17:46:52.674Z
 ---
 
 The Effect **runtime system** is what turns an `Effect<A, E, R>` blueprint into a running program: it supplies the `R` requirements, executes each step, and produces a result.
