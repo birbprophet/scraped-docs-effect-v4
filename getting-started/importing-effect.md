@@ -2,8 +2,8 @@
 url: https://raw.githubusercontent.com/Effect-TS/website/main/apps/web/src/content/docs/v4/getting-started/importing-effect.mdx
 title: "Importing Effect"
 description: "Get started with Effect by installing the package and importing essential modules and functions for building type-safe, modular applications."
-access_date: 2026-08-30T17:46:52.674Z
-current_date: 2026-08-30T17:46:52.674Z
+access_date: 2026-09-01T05:31:11.861Z
+current_date: 2026-09-01T05:31:11.861Z
 ---
 
 import { Aside, Tabs, TabItem } from "@astrojs/starlight/components"
@@ -106,6 +106,7 @@ Named imports may generate tree shaking issues when a bundler doesn't support de
 
 Here are some bundlers that support deep scope analysis and thus don't have issues with named imports:
 
+- Rolldown
 - Rollup
 - Webpack 5+
 
